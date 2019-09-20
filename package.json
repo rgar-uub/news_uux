@@ -5,6 +5,7 @@
     "cheerio": "latest",
     "request": "latest",
     "sqlite3": "latest"
+    "tress": "latest"
   },
   "keywords": [
     "scraper",
